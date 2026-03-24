@@ -26,7 +26,7 @@ https://roadmap.sh/projects/accordion
 
 ## 🌐 Live Demo
 
-(Add your deployed link here)
+https://abeyyyyyy.github.io/accordion/
 
 ## 👤 Author
 
